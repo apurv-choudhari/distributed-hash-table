@@ -4,6 +4,8 @@
 This project implements a Distributed Hash Table (DHT) based on the [Chord protocol](http://pdos.lcs.mit.edu/chord/). The system uses consistent hashing with finger tables to achieve efficient \(O(\log N)\) key lookups. We expose a RESTful API for key-value operations and simulate node joins using Docker Compose.
 
 ---
+![Ring](https://github.com/user-attachments/assets/8876df06-82af-4470-9f52-47f5fbf479f7)
+
 
 ## Table of Contents
 
